@@ -4,7 +4,7 @@
 
 [cluster Symphony]
 FormLayout = selectionpanel
-IconUrl = https://github.com/CycleCloudCommunity/symphony/raw/master/icon.png
+IconUrl = https://github.com/CycleCloudCommunity/spectrum-symphony/raw/master/icon.png
 Category = Infrastructure
 
 Autoscale = $Autoscale
@@ -96,7 +96,7 @@ Order = 1
         [[[parameter SymphonyLicense]]]
         HideLabel = true
         Config.Plugin = pico.widget.HtmlTemplateWidget
-        Config.Template := "<table><tr><td><img src='https://github.com/CycleCloudCommunity/symphony/raw/master/icon.png' width='192' height='192' ></td></tr><tr><td><p>Delivers enterprise-class management for running compute- and data-intensive distributed applications on a scalable, shared grid.</p><p>See <a href=\"https://www.ibm.com/us-en/marketplace/analytics-workload-management\" target=\"_blank\">IBM Spectrum Symphony</a> for downloads, documentation and license information.</p></td></tr></table>"
+        Config.Template := "<table><tr><td><img src='https://github.com/CycleCloudCommunity/spectrum-symphony/raw/master/icon.png' width='192' height='192' ></td></tr><tr><td><p>Delivers enterprise-class management for running compute- and data-intensive distributed applications on a scalable, shared grid.</p><p>See <a href=\"https://www.ibm.com/us-en/marketplace/analytics-workload-management\" target=\"_blank\">IBM Spectrum Symphony</a> for downloads, documentation and license information.</p></td></tr></table>"
         Order = 10
 
         [[[parameter LicenseWarning]]]
@@ -108,7 +108,7 @@ Order = 1
         [[[parameter Readme]]]
         HideLabel = true
         Config.Plugin = pico.widget.HtmlTemplateWidget
-        Config.Template := "Follow the instructions in the <a href=\"https://github.com/CycleCloudCommunity/symphony/\" target=\"_blank\">README</a> for details on instructions on extending and configuring the Project for your environment."
+        Config.Template := "Follow the instructions in the <a href=\"https://github.com/CycleCloudCommunity/spectrum-symphony/\" target=\"_blank\">README</a> for details on instructions on extending and configuring the Project for your environment."
         Order = 30
 
 
