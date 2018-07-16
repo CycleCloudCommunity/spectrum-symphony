@@ -1,0 +1,16 @@
+*.bin
+*.exe
+*.msi
+*.tar.gz
+*.class
+*.pyc
+*~
+.project
+.settings
+.classpath
+.gradle
+.DS_Store
+.vagrant
+build
+target
+/docs/build/
