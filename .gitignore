@@ -5,6 +5,7 @@
 *.class
 *.pyc
 *~
+*entitlement.dat
 .project
 .settings
 .classpath
