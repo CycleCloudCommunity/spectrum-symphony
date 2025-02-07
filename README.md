@@ -1,5 +1,15 @@
 # IBM Spectrum Symphony #
 
+## Archive Notice
+
+This CycleCloud Community repository has been archived and is no longer maintained. For the latest updates and ongoing development, please visit the new repository:
+
+[CycleCloud Cluster Type for IBM Spectrum Symphony](https://github.com/Azure/cyclecloud-symphony)
+
+Thank you for your interest and support!
+
+## Legacy Project
+
 This project installs and configures IBM Spectrum Symphony.
 
 Use of IBM Spectrum Symphony requires a license agreement and Symphony binaries obtained directly 
